@@ -1,0 +1,6 @@
+gold-value-per-ingot: 100.0
+afk-earnings-enabled: false
+starting-balance: 0.0
+language:
+  balance-message: "Your gold balance is: {balance}"
+  insufficient-funds: "You do not have enough gold."

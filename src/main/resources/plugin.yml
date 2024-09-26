@@ -1,0 +1,10 @@
+name: SimpleGold
+main: com.asfaltios.simplegold.SimpleGold
+version: 1.0.0
+api-version: 1.21
+author: Asfaltios
+commands:
+  gold:
+    description: Manage your gold balance.
+    usage: /gold [gui|pay <player> <amount>]
+    aliases: [g]
